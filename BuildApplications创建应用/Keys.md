@@ -16,3 +16,12 @@
 - Create key（in the Mock HSM）在Mock HSM中创建key
 - Load key （into the HSM Signer）加载秘钥 进入HSM签名者
 - Sign transaction （with the Mock HSM）签名交易 使用Mock HSM
+
+
+
+    Sample Code示例代码
+
+本指南中的所有代码示例都可以在单个可运行的脚本中查看。
+
+- java
+- Ruby
