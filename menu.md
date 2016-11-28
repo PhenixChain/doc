@@ -38,7 +38,7 @@ core：核心
 - coretest：核心测试
 - coreunsafe：警告操作（用于重置链）
 - fetch：抓取链中的数据以及当前块链
-- generator：
+- generator：生成区块
 - leader：
 - migrate：
 - mockhsm：
