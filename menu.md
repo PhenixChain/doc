@@ -40,7 +40,7 @@ core：核心
 - fetch：抓取链中的数据以及当前块链
 - generator：生成区块
 - leader：用于节点消息广播
-- migrate：
+- migrate：数据迁移
 - mockhsm：
 - pin：
 - query：
