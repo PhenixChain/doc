@@ -8,9 +8,6 @@
 - 对于开发环境，区块链提供了一种方便的Mock HSM。Mock HSM API与生产环境中的真实HSM API相同，可提供从开发到上线的无缝过渡。需要注意的是，Mock HSM并没有真实HSM的安全性。
 
 
-
-
-
     Overview概述
 
 本指南将指导您完成基本的keys操作：
@@ -20,7 +17,6 @@
 - Sign transaction （with the Mock HSM）签名交易 使用Mock HSM
 
 
-
     Sample Code示例代码
 
 本指南中的所有代码示例都可以在单个可运行的脚本中查看。
@@ -28,6 +24,19 @@
 - java
 - Ruby
 
+
+    创建密钥
+
+在Mock HSM中创建一个新密钥。（）
+
+
+    加载密钥
+
+为了能签署事务，将密钥加载到HSM签署人（HSM Signer），HSM签署人（HSM Signer）与Mock HSM通讯。
+
+    签名交易
+
+一旦构建了事务，将发送到HSM签署人（HSM Signer）进行签名。
 
 
     
