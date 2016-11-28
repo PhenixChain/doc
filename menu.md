@@ -16,4 +16,15 @@ cmd：命令行工具
 - gobytes：打印字符串为字节流操作
 - hex：十六进制编解码操作工具
 - md2html：md转换成html工具
-- 
+- metricsd：内核运行状态监控
+- migratedb：数据库迁移
+- multitool：
+- perfdash：
+- sha3：
+- shake：
+- slashland：
+- testbot：
+- testnet-info：
+- testnet-reset：
+- varint：
+- vet：
