@@ -45,7 +45,7 @@ core：核心
 - pin：区块高度状态更新
 - query：实现对区块接口数据的查询
 - rpc：http客户端请求
-- signers：
+- signers：签名
 - txbuilder：
 - txdb：
 - txfeed：
