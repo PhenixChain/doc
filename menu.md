@@ -33,10 +33,10 @@ core：核心
 - accesstoken：操作token。Client token和network token
 - account：账户操作
 - asset：资产
-- blocksigner：
-- config：
-- coretest：
-- coreunsafe：
+- blocksigner：块签名
+- config：配置
+- coretest：核心测试
+- coreunsafe：警告操作（用于重置链）
 - fetch：
 - generator：
 - leader：
