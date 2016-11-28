@@ -43,3 +43,9 @@ core：核心
 - migrate：
 - mockhsm：
 - pin：
+- query：
+- rpc：
+- signers：
+- txbuilder：
+- txdb：
+- txfeed：
