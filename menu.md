@@ -18,7 +18,7 @@ cmd：命令行工具
 - md2html：md转换成html工具
 - metricsd：内核运行状态监控
 - migratedb：数据库迁移
-- multitool：
+- multitool：cmd下集成命令工具
 - perfdash：
 - sha3：
 - shake：
