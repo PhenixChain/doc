@@ -1,4 +1,3 @@
-
 # 目录
 
 builds：用于内核升级，运行go build命令。
@@ -31,5 +30,8 @@ cmd：命令行工具
 
 core：核心
 
-- accesstoken：
-- 
+- accesstoken：操作token。Client token和network token
+- account：
+- asset：
+- blocksigner：
+- config：
