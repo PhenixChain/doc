@@ -41,10 +41,10 @@ core：核心
 - generator：生成区块
 - leader：用于节点消息广播
 - migrate：数据迁移
-- mockhsm：
-- pin：
-- query：
-- rpc：
+- mockhsm：模拟生成公钥私钥
+- pin：区块高度状态更新
+- query：实现对区块接口数据的查询
+- rpc：http客户端请求
 - signers：
 - txbuilder：
 - txdb：
