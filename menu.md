@@ -26,5 +26,5 @@ cmd：命令行工具
 - testbot：？？测试
 - testnet-info：测试网络信息
 - testnet-reset：测试网络返回
-- varint：
-- vet：
+- varint：varint编码
+- vet：go代码错误检查工具
