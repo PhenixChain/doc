@@ -13,6 +13,6 @@ cmd：命令行工具
 - deploy：部署
 - ed25519：ed25519非对称加密工具
 - gobundle:遍历目录下的文件
-- gobytes：
-- hex：十六进制操作工具
+- gobytes：打印字节流操作
+- hex：十六进制编解码操作工具
 - md2html
