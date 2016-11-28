@@ -39,7 +39,7 @@ core：核心
 - coreunsafe：警告操作（用于重置链）
 - fetch：抓取链中的数据以及当前块链
 - generator：生成区块
-- leader：
+- leader：用于节点消息广播
 - migrate：
 - mockhsm：
 - pin：
