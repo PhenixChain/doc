@@ -21,10 +21,10 @@ cmd：命令行工具
 - multitool：cmd下集成命令工具
 - perfdash：性能监控
 - sha3：sha3哈希
-- shake：sha3哈希的扩展函数
-- slashland：
-- testbot：
-- testnet-info：
-- testnet-reset：
+- shake：sha3哈希的扩展
+- slashland：？？
+- testbot：？？测试
+- testnet-info：测试网络信息
+- testnet-reset：测试网络返回
 - varint：
 - vet：
