@@ -9,4 +9,6 @@ cmd：命令行工具
 - blockcache：？块的缓存
 - corectl：设置core模块参数
 - cored：core服务
-- 
+- decode：解码工具
+- deploy：部署
+- ed25519：ed25519非对称加密工具
