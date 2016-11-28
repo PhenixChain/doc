@@ -4,7 +4,6 @@
 builds：用于内核升级，运行go build命令。
 
 cmd：命令行工具
-
 - benchcore：测试性能
 - blockcache：？块的缓存
 - corectl：设置core模块参数
@@ -28,3 +27,5 @@ cmd：命令行工具
 - testnet-reset：测试网络返回
 - varint：varint编码
 - vet：go代码错误检查工具
+
+core：
