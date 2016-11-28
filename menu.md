@@ -31,7 +31,15 @@ cmd：命令行工具
 core：核心
 
 - accesstoken：操作token。Client token和network token
-- account：
-- asset：
+- account：账户操作
+- asset：资产
 - blocksigner：
 - config：
+- coretest：
+- coreunsafe：
+- fetch：
+- generator：
+- leader：
+- migrate：
+- mockhsm：
+- pin：
