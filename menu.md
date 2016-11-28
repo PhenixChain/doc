@@ -20,8 +20,8 @@ cmd：命令行工具
 - migratedb：数据库迁移
 - multitool：cmd下集成命令工具
 - perfdash：性能监控
-- sha3：sha加密
-- shake：
+- sha3：sha3哈希
+- shake：sha3哈希的扩展函数
 - slashland：
 - testbot：
 - testnet-info：
