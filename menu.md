@@ -37,7 +37,7 @@ core：核心
 - config：配置
 - coretest：核心测试
 - coreunsafe：警告操作（用于重置链）
-- fetch：
+- fetch：抓取链中的数据以及当前块链
 - generator：
 - leader：
 - migrate：
