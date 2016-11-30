@@ -5,5 +5,4 @@
 * [创建应用](创建应用/Keys.md)
    * Assets
    * Keys
-* [全局与本地数据](部分详解/Data.md)
 
